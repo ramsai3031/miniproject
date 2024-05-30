@@ -1,0 +1,197 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/037/953/327/small_2x/keywords-travel-the-world-and-items-accessories-for-the-traveler-are-on-the-world-map-tourism-concept-photo.jpg");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+
+.bg-card {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 40px;
+    border-radius: 25px;
+    color: #ffffff;
+    margin: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    font-size: 40px;
+    color: #20384a;
+}
+
+.paragraph {
+    font-size: 18px;
+    font-family: "Playfair Display";
+    font-weight: bold;
+    color: #707070;
+}
+
+.button {
+    width: 130px;
+    height: 36px;
+    border-radius: 20px;
+    background-color: #25b1cc;
+    color: #ffffff;
+    border-width: 0px;
+    text-transform: capitalize;
+    font-family: "Playfair Display";
+}
+
+.places-container {
+    background-image: url("https://www.technofunc.com/media/zoo/images/travel_industry15_0c60508992bfe6b023d63287f80696cf.jpg");
+    height: 100%;
+    background-size: cover;
+    padding: 20px;
+}
+
+.main-heading {
+    color: #ffffff;
+    font-size: 35px;
+    font-family: "Bree Serif";
+    text-decoration: underline;
+}
+
+.places-card {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 30px;
+    border-radius: 15px;
+    margin: 10px;
+    margin-top: 25px;
+}
+
+.card-item {
+    margin: 10px;
+}
+
+.card-heading {
+    font-size: 30px;
+    font-family: "Playfair Display";
+    color: #20384a;
+    font-weight: bold;
+}
+
+.card-para {
+    font-size: 15px;
+    color: black;
+    font-family: "Playfair Display";
+    font-weight: 500;
+}
+
+.btn1 {
+    margin-top: 13px;
+}
+
+.image {
+    width: 120px;
+    height: 130px;
+}
+
+.detail-container {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/026/793/949/small/travel-and-tourism-concept-luggage-camera-and-globe-on-blue-background-photo.jpg");
+    height: 100%;
+    background-size: cover;
+    padding: 20px;
+}
+
+.detail-card {
+    margin-top: 3rem;
+}
+
+.detail-content {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+}
+
+.details-para {
+    color: black;
+}
+
+
+.bg-contr {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png);
+    background-size: cover;
+    height: 100vh;
+}
+
+.card1 {
+    background-color: #000000e6;
+    color: #ffffff;
+    margin: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    padding: 35px;
+    text-align: center;
+}
+
+.head1 {
+    font-family: "Bree Serif";
+}
+
+.button1 {
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-family: Roboto;
+   
+    height: 7vh;
+    width: 25vw;
+
+}
+
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
+
+.background {
+    background-image: url('https://www.travelandleisure.com/thmb/o7LEqLUpOtf0nIm7ErqGrsVA3yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-hotel-room-interior-bed-BOOKHOTEL0223-786eb1910382404a8806d1e1e8ed7716.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.booking-form {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.booking-form h2 {
+    text-align: center;
+}
+
+.booking-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.booking-form input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.booking-form button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.booking-form button:hover {
+    background-color: #45a049;
+}
